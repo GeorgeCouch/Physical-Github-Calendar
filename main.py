@@ -36,3 +36,7 @@ for i in range(len(contributions_intensities_sorted)):
 # 1.75mm length for each led
 # 0.4mm height for each led
 # 1mm width for each led 
+
+# 1.25mm width
+# 0.8mm height
+# 1.75 length
